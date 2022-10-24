@@ -11,12 +11,12 @@
 
 #### <font face="Times New Roman">It is useful to consider P/B ratio assessments together with ROE assessments because they both consider the book value of equity. Neither of these valuation tools is flawless, so it is helpful to check one valuation against the other. P/B and ROE evaluate a stock from different perspectives, but they are related; They're all in the book value of equity.</font>
 
-#### <font face="Times New Roman">A more sensible approach would be to combine measures, such as examining trends in P/B and ROE data over the years. So by valuing each stock over A 20-year period, the study was able to measure which of all the stocks in the same industry had the most growth prospects.</font>
+#### <font face="Times New Roman">A more sensible approach would be to combine measures, such as examining trends in P/B and ROE data over the years. Therefore, through the valuation of each stock on the main board of China in the past 20 years, this study can measure the development trend among industries, enterprises and time periods.</font>
 #### <font face="Times New Roman">The financial ROE in the annual report and PB on April 30 of the next year are selected. To prevent extreme data effects, points with ROE greater than 50 or less than -50 and stocks with PB greater than 50 or less than 0 were excluded.</font>
 
 1. <font face="Times New Roman">According to the annual statistics, the PB-ROE linear fitting correlation coefficient, slope and intercept of all A-shares in the past 20 years.</font>
 
-2. <font face="Times New Roman">In the past 20 years, PB-ROE correlation coefficient, linear fitting slope and intercept of all A-shares in different industries (CITIC Level 1) were counted. The median value of the past 20 years was compared once, and the total data of the past 20 years was compared once, and each enterprise was compared once a year.</font>
+2. <font face="Times New Roman">Analyzed the PB-ROE correlation coefficient, linear fitting slope and intercept of all Chinese stocks in different industries in the past 20 years. The median value of the past 20 years need to be compared once, the total data of the past 20 years need to be compared once, and each enterprise need to becompared once a year.</font>
 
 3. <font face="Times New Roman">On an annual basis, PB-ROE linear fitted correlation coefficients, slopes and intercepts for basic chemical, petroleum and petrochemical industries over the past 20 years</font>
 
